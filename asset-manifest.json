@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "https://x-penses.app/static/css/main.82e60339.css",
-    "main.js": "https://x-penses.app/static/js/main.d8d82214.js",
-    "static/js/27.963e5616.chunk.js": "https://x-penses.app/static/js/27.963e5616.chunk.js",
-    "service-worker.js": "https://x-penses.app/service-worker.js",
-    "index.html": "https://x-penses.app/index.html"
+    "main.css": "https://x-penses.github.io/static/css/main.82e60339.css",
+    "main.js": "https://x-penses.github.io/static/js/main.d8d82214.js",
+    "static/js/27.963e5616.chunk.js": "https://x-penses.github.io/static/js/27.963e5616.chunk.js",
+    "service-worker.js": "https://x-penses.github.io/service-worker.js",
+    "index.html": "https://x-penses.github.io/index.html"
   },
   "entrypoints": [
     "static/css/main.82e60339.css",
